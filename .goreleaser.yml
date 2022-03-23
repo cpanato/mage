@@ -1,7 +1,7 @@
 project_name: mage
 release:
   github:
-    owner: magefile
+    owner: cpanato
     name: mage
   draft: true
 build:
